@@ -1,7 +1,17 @@
 import random
 
 def random_ints():
-    # Your code here!
+    i = 1
+    list = []
+    while i > 0:
+        x = (int)(random.random()*10)+1
+        if x != 6:
+            list.append(x)
+            continue
+        else:
+            list.append(x)
+            return list
+            break
 
 
 def test():
