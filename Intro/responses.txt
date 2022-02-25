@@ -1,4 +1,3 @@
-
 git version 2.30.1 (Apple Git-130)
 Python 3.8.8
 pip 21.0.1 from /Users/syoshida/opt/anaconda3/lib/python3.8/site-packages/pip (python 3.8)
